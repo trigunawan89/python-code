@@ -1,0 +1,31 @@
+https://gist.github.com/a1282eca92574167a278567f3470c80d variablescope.py 
+https://gist.github.com/1e0916b4e865adb22cfeccb2f4eec71b variablescope.py 
+https://gist.github.com/275e0dc6d5acf91e5f0e5a6466752a51  
+https://gist.github.com/1b10acb90930fc6e0a80d5f2e7bfb4c3 Crontab on django virtual env 
+https://gist.github.com/b9c5426d17e7b6eb43732a3229559c4f  
+https://gist.github.com/c1de4221d4a055656394e752074a6353  
+https://gist.github.com/0eb903f09337c95c2e0f1c1f18cf3d87  
+https://gist.github.com/eadc521cff9096716c78e6e098477c90  
+https://gist.github.com/9518805daf08de9b80c50e061111e0d3  
+https://gist.github.com/84d4bafa2e743f916c73bed726479164  
+https://gist.github.com/9b7ead8655b6242723b33bb6d73136aa  (secret)
+https://gist.github.com/0844a2cd6d167993329b4b7136e492e1 project idea (secret)
+https://gist.github.com/17eb638f2f388cf12b63147962e589e0 Project Plan (secret)
+https://gist.github.com/d051540e0cc82b3b13e33c2810bb289c notebook/crippfr_mail_schedule.ipynb (secret)
+https://gist.github.com/8d1aedae959008563d143c0f81e6bbfd notebook/international_sos_new.ipynb (secret)
+https://gist.github.com/b5e3134ab7cffdb5c6d49b10359d2174 notebook/cri_kpi.ipynb (secret)
+https://gist.github.com/a500013251f9adc5a1f661ff38f88545 ecd admin old (secret)
+https://gist.github.com/96f87b5686e232c3ff293dc963fde9f1 ekinship before use excel (secret)
+https://gist.github.com/82fb0e1f941c1e40e9821afb56bf134d notebook/ecd_ekinship_dashboard.ipynb (secret)
+https://gist.github.com/4d3e32c172c322835697070ade6a4208 notebook/map/GeoData_on_hover.ipynb (secret)
+https://gist.github.com/05985d0fa02ba49067db9a93f6f44626 notebook/international_sos.ipynb (secret)
+https://gist.github.com/ad4f7ae84ee8e9ca9631f2292f316c90  
+https://gist.github.com/dba525b546ea72c2e97feeb8563816bf ppfr model law (secret)
+https://gist.github.com/4e92ff6bf63309d3fb1c6702f8dd7603 law, bcoc (secret)
+https://gist.github.com/f507134b41f41851c025f99dd46088ba ppfr django admin (secret)
+https://gist.github.com/792b44ea9075267a3d5b406d18355115 notebook/cribrap_pmqa_scrap.ipynb (secret)
+https://gist.github.com/df843d2e146f32a67e5b60eaccc44036 notebook/cribrap_dashboard.ipynb (secret)
+https://gist.github.com/8df205ea6de784a9637300fc303690f2 jupyter notebook 
+https://gist.github.com/513de8d14db48f046d68ddba70d483ba Shopify (secret)
+https://gist.github.com/f6fe1ccba6a9e3bd804422de4e4094bd  (secret)
+https://gist.github.com/f814c9b9598db9983988c81f0b804162  (secret)
