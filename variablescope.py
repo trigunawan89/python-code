@@ -1,9 +1,9 @@
-x = 'Global x'
+x = 'Global x variable'
 
 def test():
     #global x
-    y = 'Local y'
-    x = 'Local x'
+    y = 'Local y variable'
+    x = 'Local x variable'
     print(x +','+y)
 
 if __name__ == '__main__':
