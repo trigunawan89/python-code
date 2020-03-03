@@ -1,3 +1,4 @@
-# pythoncode
+# python-code
 
-my repository python code
+> concept & code snippet in python style:
+
